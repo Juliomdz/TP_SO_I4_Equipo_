@@ -1,4 +1,10 @@
-A- EN TESTING ES COLOR BLUE.
-B- EN DESARROLLO ES YELLOW.
-C- EN MASTER ES BLUE.
-D- QUEDO EL FAVICON DE BETA.
+a- En testing es color blue.
+b- En desarrollo es yellow.
+c- En master es blue.
+d- Quedo el favicon de beta.
+e- Si, los que quisieron pushear luego del push anterior sin hacer un pull previo.
+f- No nos permitia hacer el push sin previamente traer los cambios.
+g- Se puede hacer primero un pull y luego un push, o se puede hacer un force push con el comando push -f.
+h- Lo que sucede es que el ultimo push deshabilita los cambios anteriores sobreescribiendo los archivos.
+i- Deberia hacer que cada uno de los integrantes en orden haga un pull, edite localmente el archivo agregando
+ sus datos y luego haga su push para que el siguiente integrante pueda repetir la secuencia.
